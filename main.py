@@ -4,4 +4,4 @@ if num > 0:
 elif num < 0:
     print ("Number is negative")
 else:
-    print ("Zero")
+    print ("Number is zero")
